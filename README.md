@@ -24,8 +24,6 @@ La repository e' strutturata nella seguente maniera:
 
 ## Membri del gruppo
 
-<p align="center">
-
   | Cognome      | Nome             | Matricola |
   | :----------- | :--------------  | :-------- |
   | Agafitei     | Ciprian          | 2034325   |
@@ -35,5 +33,3 @@ La repository e' strutturata nella seguente maniera:
   | Meneghini    | Fabio            | 2034332   |
   | SQL Hat      | Dmitry           | 1169886   |
   | Ye           | Tao Ren Federico | 2000549   |
-
-</p>
