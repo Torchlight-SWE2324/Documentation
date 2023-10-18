@@ -10,9 +10,9 @@ In questa repository sono contenuti tutti i documenti prodotti dal gruppo **torc
 ### Struttura della repository
 La repository e' strutturata nella seguente maniera:
 - Candidatura
-  - Lettera di presentazione
+  - Lettera di Presentazione
     - file pdf
-  - Preventivo Costi e Impegni Orari
+  - Preventivo dei costi ed impegni orari
     - file pdf
   - Valutazione dei Capitolati
     - file pdf
