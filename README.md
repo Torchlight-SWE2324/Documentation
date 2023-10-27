@@ -11,7 +11,7 @@ In questa repository sono contenuti tutti i documenti prodotti dal gruppo **torc
 La repository e' strutturata nella seguente maniera:
 - **Candidatura**
   - Lettera di Presentazione
-    - file pdf [example link](https://example.com)
+    -[lettera]([https://example.com](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/1%20-%20Candidatura/Lettera%20di%20Presentazione/lettera_presentazione.pdf))
   - Preventivo dei costi ed impegni orari
     - file pdf
   - Valutazione dei Capitolati
