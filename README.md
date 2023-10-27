@@ -11,11 +11,11 @@ In questa repository sono contenuti tutti i documenti prodotti dal gruppo **torc
 La repository e' strutturata nella seguente maniera:
 - **Candidatura**
   - Lettera di Presentazione
-    -[lettera]([https://example.com](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/1%20-%20Candidatura/Lettera%20di%20Presentazione/lettera_presentazione.pdf))
+    -[lettera](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/1%20-%20Candidatura/Lettera%20di%20Presentazione/lettera_presentazione.pdf)
   - Preventivo dei costi ed impegni orari
-    - file pdf
+    - [preventivo](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/1%20-%20Candidatura/Preventivo%20costi%20ed%20impegni%20orari/preventivo_impegni.pdf)
   - Valutazione dei Capitolati
-    - file pdf
+    - [Valutazione](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/1%20-%20Candidatura/Valutazione%20capitolati%20d'appalto/valutazione_capitolati.pdf)
   - Verbali
     - Interni
       - [Verable del 16 Ottobre 2023](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/1%20-%20Candidatura/Verbali/Verbali%20interni/verbale_16_10_2023.pdf)
