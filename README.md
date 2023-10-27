@@ -11,9 +11,9 @@ In questa repository sono contenuti tutti i documenti prodotti dal gruppo **torc
 La repository e' strutturata nella seguente maniera:
 - **Candidatura**
   - Lettera di Presentazione
-    -[lettera](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/1%20-%20Candidatura/Lettera%20di%20Presentazione/lettera_presentazione.pdf)
+    - [Lettera](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/1%20-%20Candidatura/Lettera%20di%20Presentazione/lettera_presentazione.pdf)
   - Preventivo dei costi ed impegni orari
-    - [preventivo](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/1%20-%20Candidatura/Preventivo%20costi%20ed%20impegni%20orari/preventivo_impegni.pdf)
+    - [Preventivo](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/1%20-%20Candidatura/Preventivo%20costi%20ed%20impegni%20orari/preventivo_impegni.pdf)
   - Valutazione dei Capitolati
     - [Valutazione](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/1%20-%20Candidatura/Valutazione%20capitolati%20d'appalto/valutazione_capitolati.pdf)
   - Verbali
@@ -23,6 +23,4 @@ La repository e' strutturata nella seguente maniera:
       - [Verable del 20 Ottobre 2023](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/1%20-%20Candidatura/Verbali/Verbali%20interni/verbale_20_10_2023.pdf)
       - [Verable del 21 Ottobre 2023](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/1%20-%20Candidatura/Verbali/Verbali%20interni/verbale_21_10_2023.pdf)
     - Esterni
-      - file pdf
-
-Lorem
+      - [Verable esterno del 21 Ottobre 2023](https://github.com/Torchlight-SWE2324/Documentazione/blob/readme-update/1%20-%20Candidatura/Verbali/Verbali%20esterni/verbale_esterno_23_10_2023.pdf)
