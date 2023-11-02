@@ -1,6 +1,6 @@
 <p align="center">
-  <img width="300" src="docs_dark.svg#gh-dark-mode-only">
-  <img width="300" src="docs_light.svg#gh-light-mode-only">
+  <img width="250" src="docs_dark.svg#gh-dark-mode-only">
+  <img width="250" src="docs_light.svg#gh-light-mode-only">
 </p>
 
 ## Documentazione del progetto "ChatSQL"
