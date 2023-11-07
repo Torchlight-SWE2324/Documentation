@@ -35,6 +35,9 @@ La repository e' strutturata nella seguente maniera:
 
 </br>
 
+[!NOTE]
+La sezione 'RTB' e' ancora in fase di sviluppo, viene aggiunta al fine di mostrare la struttura che avra' la repository una volta completate e tenere traccia dei documenti prodotti.
+
 - <b>RTB</b>
   
   - Verbali
