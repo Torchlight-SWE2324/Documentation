@@ -32,3 +32,11 @@ La repository e' strutturata nella seguente maniera:
           - [Verbale del 20 Ottobre 2023](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/1%20-%20Candidatura/Verbali/Verbali%20interni/verbale_2023_10_20.pdf)
           - [Verbale del 21 Ottobre 2023](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/1%20-%20Candidatura/Verbali/Verbali%20interni/verbale_2023_10_21.pdf)
           - [Verbale del 28 Ottobre 2023](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/1%20-%20Candidatura/Verbali/Verbali%20interni/verbale_2023_10_28.pdf)
+
+</br>
+
+- <b>RTB</b>
+  
+  - Verbali
+  - Interni
+     - [Verbale dell'11 Novembre 2023](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/1%20-%20RTB/Verbali/Verbali%20interni/verbale_2023_10_28.pdf)
