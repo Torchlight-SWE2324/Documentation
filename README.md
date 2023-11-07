@@ -11,15 +11,24 @@ In questa repository sono contenuti tutti i documenti prodotti dal gruppo torchl
 
 ### Struttura della repository
 La repository e' strutturata nella seguente maniera:
-- <b>Candidatura</b>
-  - [Lettera di Presentazione](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/1%20-%20Candidatura/lettera_presentazione_v1_0.pdf) (V1.0)
-  - [Preventivo dei costi ed impegni orari](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/1%20-%20Candidatura/preventivo_impegni_v1_0.pdf) (V1.0)
-  - [Valutazione dei Capitolati](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/1%20-%20Candidatura/valutazione_capitolati_v1_0.pdf.pdf) (V1.0)
-  - Verbali
-    - [Verbale esterno del 23 Ottobre 2023](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/1%20-%20Candidatura/Verbali/verbale_esterno_2023_10_23.pdf) (Approvato dal proponente)
-    - Interni
-        - [Verbale del 16 Ottobre 2023](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/1%20-%20Candidatura/Verbali/Verbali%20interni/verbale_2023_10_16.pdf)
-        - [Verbale del 17 Ottobre 2023](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/1%20-%20Candidatura/Verbali/Verbali%20interni/verbale_2023_10_17.pdf)
-        - [Verbale del 20 Ottobre 2023](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/1%20-%20Candidatura/Verbali/Verbali%20interni/verbale_2023_10_20.pdf)
-        - [Verbale del 21 Ottobre 2023](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/1%20-%20Candidatura/Verbali/Verbali%20interni/verbale_2023_10_21.pdf)
-        - [Verbale del 28 Ottobre 2023](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/1%20-%20Candidatura/Verbali/Verbali%20interni/verbale_2023_10_28.pdf)
+- <details>
+  <summary><b>Candidatura</b></summary>
+
+    - [Lettera di Presentazione](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/1%20-%20Candidatura/lettera_presentazione_v1_0.pdf) (V1.0)
+    - [Preventivo dei costi ed impegni orari](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/1%20-%20Candidatura/preventivo_impegni_v1_0.pdf) (V1.0)
+    - [Valutazione dei Capitolati](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/1%20-%20Candidatura/valutazione_capitolati_v1_0.pdf.pdf) (V1.0)
+    
+    + <details>
+      
+      <summary>Verbali</summary>
+        
+        - [Verbale esterno del 23 Ottobre 2023](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/1%20-%20Candidatura/Verbali/verbale_esterno_2023_10_23.pdf) (Approvato dal proponente)
+        
+        - <details>
+          <summary>Interni</summary>
+            
+          - [Verbale del 16 Ottobre 2023](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/1%20-%20Candidatura/Verbali/Verbali%20interni/verbale_2023_10_16.pdf)
+          - [Verbale del 17 Ottobre 2023](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/1%20-%20Candidatura/Verbali/Verbali%20interni/verbale_2023_10_17.pdf)
+          - [Verbale del 20 Ottobre 2023](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/1%20-%20Candidatura/Verbali/Verbali%20interni/verbale_2023_10_20.pdf)
+          - [Verbale del 21 Ottobre 2023](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/1%20-%20Candidatura/Verbali/Verbali%20interni/verbale_2023_10_21.pdf)
+          - [Verbale del 28 Ottobre 2023](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/1%20-%20Candidatura/Verbali/Verbali%20interni/verbale_2023_10_28.pdf)
