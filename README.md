@@ -16,7 +16,7 @@ La repository e' strutturata nella seguente maniera:
 
   - [Lettera di Presentazione](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/1%20-%20Candidatura/lettera_presentazione_v1_0.pdf) (V1.0)
   - [Preventivo dei costi ed impegni orari](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/1%20-%20Candidatura/preventivo_impegni_v1_0.pdf) (V1.0)
-  - [Valutazione dei Capitolati](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/1%20-%20Candidatura/valutazione_capitolati_v1_0.pdf.pdf) (V1.0)
+  - [Valutazione dei Capitolati](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/1%20-%20Candidatura/valutazione_capitolati_v1_0.pdf) (V1.0)
   
   + <details>
     
