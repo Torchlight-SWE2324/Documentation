@@ -41,7 +41,7 @@ La repository e' strutturata nella seguente maniera:
 > La sezione 'RTB' e' ancora in fase di sviluppo, viene aggiunta al fine di mostrare la struttura che avra' la repository una volta completate e tenere traccia dei documenti prodotti.
 
 + <b>RTB</b>
-  - [Analisi dei Requisiti](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Esterna/analisi_requisiti_v0.3.txt)
+  - [Analisi dei Requisiti](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Esterna/analisi_requisiti_v0.3.1.pdf)
   - Verbali
     - [Verbale esterno del 13 Novembre 2023](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Verbali/Verbali%20esterni/verbale_esterno_2023_11_13.pdf) (Approvato dal proponente)
   - Interni
