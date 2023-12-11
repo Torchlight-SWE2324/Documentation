@@ -52,22 +52,19 @@ La repository e' strutturata nella seguente maniera:
     - [Piano di Progetto](exaple.com)
     - [Piano di Qualifica](exaple.com)
     + <details>
-      <summary>Verbali Esterni</summary> Verbali Esterni
+      <summary>Verbali Esterni</summary>
       
         - [Verbale esterno del 13 Novembre 2023](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Esterna/Verbali%20Esterni/verbale_esterno_2023_11_13.pdf) (Approvato dal proponente)
         - [Verbale esterno del 4 Dicembre 2023](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Esterna/Verbali%20Esterni/verbale_esterno_2023_12_04.pdf) (Approvato dal proponente)
     </details>
   </details>
-
-<br>
-
 + <details>
   <summary>Documentazione Interna</summary>
 
   - [Norme di Progetto](exaple.com)
   + <details>
     <summary>Verbali Interni</summary>
-    
+
       - [Verbale del 6 Novembre 2023](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Interna/Verbali%20Interni/verbale_interno_2023_11_06.pdf)
       - [Verbale dell'11 Novembre 2023](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Interna/Verbali%20Interni/verbale_interno_2023_11_11.pdf)
       - [Verbale del 18 Novembre 2023](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Interna/Verbali%20Interni/verbale_interno_2023_11_18.pdf)
