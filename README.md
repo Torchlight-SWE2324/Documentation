@@ -40,38 +40,25 @@ La repository e' strutturata nella seguente maniera:
 > [!NOTE]
 > La sezione 'RTB' è ancora in fase di sviluppo, viene aggiunta al fine di mostrare la struttura che avrà la repository una volta completate e tenere traccia dei documenti prodotti. Non tutti i documenti sono stati ancora creati, pertanto alcuni link riportano a pagine vuote.
 
-<details>
-<summary><b>RTB</b></summary>
+<b>RTB</b>
 
   - [Lettera di Presentazione](exaple.com)
-  + <details>
-    <summary>Documentazione Esterna</summary>
-    
+  - Documentazione Esterna
     - [Analisi dei Requisiti](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Esterna/analisi_requisiti_v0.3.1.pdf)
     - [Glossario](exaple.com)
     - [Piano di Progetto](exaple.com)
     - [Piano di Qualifica](exaple.com)
-    + <details>
-      <summary>Verbali Esterni</summary>
-      
-        - [Verbale esterno del 13 Novembre 2023](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Esterna/Verbali%20Esterni/verbale_esterno_2023_11_13.pdf) (Approvato dal proponente)
-        - [Verbale esterno del 4 Dicembre 2023](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Esterna/Verbali%20Esterni/verbale_esterno_2023_12_04.pdf) (Approvato dal proponente)
-    </details>
-  </details>
+    - Verbali Esterni
+      - [Verbale esterno del 13 Novembre 2023](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Esterna/Verbali%20Esterni/verbale_esterno_2023_11_13.pdf) (Approvato dal proponente)
+      - [Verbale esterno del 4 Dicembre 2023](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Esterna/Verbali%20Esterni/verbale_esterno_2023_12_04.pdf) (Approvato dal proponente)
 
-+ <details>
-  <summary>Documentazione Interna</summary>
 
+- Documentazione Interna
   - [Norme di Progetto](exaple.com)
-  + <details>
-    <summary>Verbali Interni</summary>
-
-      - [Verbale del 6 Novembre 2023](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Interna/Verbali%20Interni/verbale_interno_2023_11_06.pdf)
-      - [Verbale dell'11 Novembre 2023](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Interna/Verbali%20Interni/verbale_interno_2023_11_11.pdf)
-      - [Verbale del 18 Novembre 2023](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Interna/Verbali%20Interni/verbale_interno_2023_11_18.pdf)
-      - [Verbale del 25 Novembre 2023](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Interna/Verbali%20Interni/verbale_interno_2023_11_25.pdf)
-      - [Verbale del 2 Dicembre 2023](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Interna/Verbali%20Interni/verbale_interno_2023_12_02.pdf)
-      - [Verbale del 9 Dicembre 2023](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Interna/Verbali%20Interni/verbale_interno_2023_12_09.pdf)
-    </details>
-  </details>
-</details>
+  - Verbali Interni
+    - [Verbale del 6 Novembre 2023](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Interna/Verbali%20Interni/verbale_interno_2023_11_06.pdf)
+    - [Verbale dell'11 Novembre 2023](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Interna/Verbali%20Interni/verbale_interno_2023_11_11.pdf)
+    - [Verbale del 18 Novembre 2023](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Interna/Verbali%20Interni/verbale_interno_2023_11_18.pdf)
+    - [Verbale del 25 Novembre 2023](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Interna/Verbali%20Interni/verbale_interno_2023_11_25.pdf)
+    - [Verbale del 2 Dicembre 2023](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Interna/Verbali%20Interni/verbale_interno_2023_12_02.pdf)
+    - [Verbale del 9 Dicembre 2023](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Interna/Verbali%20Interni/verbale_interno_2023_12_09.pdf)
