@@ -37,13 +37,10 @@ La repository è strutturata nella seguente maniera:
 
 </br>
 
-> [!NOTE]
-> La sezione 'RTB' è ancora in fase di sviluppo, viene aggiunta al fine di mostrare la struttura che avrà la repository una volta completate e tenere traccia dei documenti prodotti. Non tutti i documenti sono stati ancora creati, pertanto alcuni link riportano a pagine vuote.
-
 <b>RTB</b>
   - [Lettera di Presentazione](exaple.com)
   - Documentazione Esterna
-    - [Analisi dei Requisiti](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Esterna/analisi_requisiti_v0.6.3.pdf)
+    - [Analisi dei Requisiti](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Esterna/analisi_requisiti_v1.0.0.pdf)
     - [Glossario](exaple.com)
     - [Piano di Progetto](exaple.com)
     - [Piano di Qualifica](exaple.com)
