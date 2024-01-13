@@ -7,10 +7,10 @@
 
 ## Documentazione del progetto "ChatSQL"
 
-In questa repository sono contenuti tutti i documenti prodotti dal gruppo torchlight per il progetto ChatSQL, [proposto](https://www.math.unipd.it/~tullio/IS-1/2023/Progetto/C9.pdf) dall'azienda Zucchetti S.p.A. per il corso di Ingegneria del Software dell'Universita' degli Studi di Padova.
+In questa repository sono contenuti tutti i documenti prodotti dal gruppo torchlight per il progetto ChatSQL, [proposto](https://www.math.unipd.it/~tullio/IS-1/2023/Progetto/C9.pdf) dall'azienda Zucchetti S.p.A. per il corso di Ingegneria del Software dell'Università degli Studi di Padova.
 
 ### Struttura della repository
-La repository e' strutturata nella seguente maniera:
+La repository è strutturata nella seguente maniera:
 <details>
 <summary><b>Candidatura</b></summary>
 
