@@ -3,14 +3,12 @@
   <img width="250" src="rsc/docs_light.svg#gh-light-mode-only">
 </p>
 
-</br>
-
 ## Documentazione del progetto "ChatSQL"
 
 In questa repository sono contenuti tutti i documenti prodotti dal gruppo torchlight per il progetto ChatSQL, [proposto](https://www.math.unipd.it/~tullio/IS-1/2023/Progetto/C9.pdf) dall'azienda Zucchetti S.p.A. per il corso di Ingegneria del Software dell'Università degli Studi di Padova.
 
 ### Struttura della repository
-La repository è strutturata nella seguente maniera:
+
 <details>
 <summary><b>Candidatura</b></summary>
 
@@ -40,7 +38,7 @@ La repository è strutturata nella seguente maniera:
 <b>RTB</b>
   - [Lettera di Presentazione](exaple.com)
   - Documentazione Esterna
-    - [Analisi dei Requisiti](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Esterna/analisi_requisiti_v1.0.0.pdf)
+    - [Analisi dei Requisiti](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Esterna/analisi_requisiti_v1.0.0.pdf) (Versione 1.0.0)
     - [Glossario](exaple.com)
     - [Piano di Progetto](exaple.com)
     - [Piano di Qualifica](exaple.com)
@@ -49,8 +47,6 @@ La repository è strutturata nella seguente maniera:
       - [Verbale esterno del 4 Dicembre 2023](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Esterna/Verbali%20Esterni/verbale_esterno_2023_12_04.pdf) (Approvato dal proponente)
       - [Verbale esterno del 20 Dicembre 2023](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Esterna/Verbali%20Esterni/verbale_esterno_2023_12_20.pdf) (Approvato dal proponente)
       - [Verbale esterno del 10 Gennaio 2023](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Esterna/Verbali%20Esterni/verbale_esterno_2024_01_10.pdf) (Approvato dal proponente)
-
-<br>
 
 - Documentazione Interna
   - [Norme di Progetto](exaple.com)
