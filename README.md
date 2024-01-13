@@ -38,7 +38,7 @@ In questa repository sono contenuti tutti i documenti prodotti dal gruppo torchl
 
 <b>RTB</b>
 
-- [Lettera di Presentazione]([exaple.com](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/lettera_presentazione.pdf))
+- [Lettera di Presentazione](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/lettera_presentazione.pdf)
 - Documentazione Esterna
   - [Analisi dei Requisiti](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Esterna/analisi_requisiti_v1.0.0.pdf) (Versione 1.0.0)
   - [Glossario](exaple.com)
