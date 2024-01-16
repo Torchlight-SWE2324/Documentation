@@ -38,21 +38,22 @@ In questa repository sono contenuti tutti i documenti prodotti dal gruppo torchl
 
 <b>RTB</b>
 
-  - [Lettera di presentazione](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/lettera_presentazione.pdf)
+- [Lettera di Presentazione](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/lettera_presentazione.pdf)
   - Documentazione Esterna
-    - [Analisi dei requisiti](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Esterna/analisi_requisiti_v1.0.0.pdf) (Versione 1.0.0)
+    - [Analisi dei Requisiti](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Esterna/analisi_requisiti_v1.0.0.pdf) (Versione 1.0.0)
     - [Glossario](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Esterna/glossario_v1.0.0.pdf) (Versione 1.0.0)
-    - [Piano di progetto](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Esterna/piano_progetto_v1.0.0.pdf) (Versione 1.0.0)
-    - [Piano di qualifica](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Esterna/piano_qualifica_v1.0.0.pdf) (Versione 1.0.0)
+    - [Piano di Progetto](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Esterna/piano_progetto_v1.0.0.pdf) (Versione 1.0.0)
+    - [Piano di Qualifica](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Esterna/piano_qualifica_v1.0.0.pdf) (Versione 1.0.0)
     - Verbali Esterni
       - [Verbale esterno del 13 Novembre 2023](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Esterna/Verbali%20Esterni/verbale_esterno_2023_11_13.pdf) (Approvato dal proponente)
       - [Verbale esterno del 4 Dicembre 2023](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Esterna/Verbali%20Esterni/verbale_esterno_2023_12_04.pdf) (Approvato dal proponente)
       - [Verbale esterno del 20 Dicembre 2023](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Esterna/Verbali%20Esterni/verbale_esterno_2023_12_20.pdf) (Approvato dal proponente)
       - [Verbale esterno del 10 Gennaio 2024](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Esterna/Verbali%20Esterni/verbale_esterno_2024_01_10.pdf) (Approvato dal proponente)
 
+</br>
 
 - Documentazione Interna
-  - [Norme di progetto](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Interna/norme_progetto_v0.4.6.pdf)
+  - [Norme di Progetto](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Interna/norme_progetto_v0.4.6.pdf)
   - Verbali Interni
     - [Verbale del 6 Novembre 2023](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Interna/Verbali%20Interni/verbale_interno_2023_11_06.pdf)
     - [Verbale dell'11 Novembre 2023](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Interna/Verbali%20Interni/verbale_interno_2023_11_11.pdf)
