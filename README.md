@@ -53,7 +53,7 @@ In questa repository sono contenuti tutti i documenti prodotti dal gruppo torchl
 </br>
 
 - Documentazione Interna
-  - [Norme di Progetto](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Interna/norme_progetto_v0.4.6.pdf)
+  - [Norme di Progetto](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Interna/norme_progetto_v1.0.0.pdf) (Versione 1.0.0)
   - Verbali Interni
     - [Verbale del 6 Novembre 2023](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Interna/Verbali%20Interni/verbale_interno_2023_11_06.pdf)
     - [Verbale dell'11 Novembre 2023](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Interna/Verbali%20Interni/verbale_interno_2023_11_11.pdf)
@@ -65,3 +65,5 @@ In questa repository sono contenuti tutti i documenti prodotti dal gruppo torchl
     - [Verbale del 29 Dicembre 2023](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Interna/Verbali%20Interni/verbale_interno_2023_12_29.pdf)
     - [Verbale del 6 Gennaio 2024](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Interna/Verbali%20Interni/verbale_interno_2024_01_06.pdf)
     - [Verbale del 13 Gennaio 2024](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Interna/Verbali%20Interni/verbale_interno_2024_01_13.pdf)
+    - [Verbale del 5 Febbario 2024](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Interna/Verbali%20Interni/verbale_interno_2024_02_05.pdf)
+
