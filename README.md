@@ -40,7 +40,7 @@ In questa repository sono contenuti tutti i documenti prodotti dal gruppo torchl
 
 - [Lettera di Presentazione](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/lettera_presentazione.pdf)
   - Documentazione Esterna
-    - [Analisi dei Requisiti](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Esterna/analisi_requisiti_v1.0.0.pdf) (Versione 1.0.0)
+    - [Analisi dei Requisiti](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Esterna/analisi_requisiti_v1.1.0.pdf) (Versione 1.1.0)
     - [Glossario](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Esterna/glossario_v1.0.0.pdf) (Versione 1.0.0)
     - [Piano di Progetto](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Esterna/piano_progetto_v1.0.0.pdf) (Versione 1.0.0)
     - [Piano di Qualifica](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Esterna/piano_qualifica_v1.0.0.pdf) (Versione 1.0.0)
