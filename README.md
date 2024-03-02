@@ -88,7 +88,7 @@ In questa repository sono contenuti tutti i documenti prodotti dal gruppo torchl
   - [Manuale Utente (Versione 1.0.0)](example.com)
   - [Specifica Architetturale (Versione 1.0.0)](example.com)
   - Verbali Esterni
-    - [Verbale esterno del XX mese 2024](example.com)
+    - [Verbale esterno del XX mese 2024 (Approvato dal proponente)](example.com)
 
 <br/>
 
