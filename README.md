@@ -66,6 +66,9 @@ In questa repository sono contenuti tutti i documenti prodotti dal gruppo torchl
     - [Verbale del 2024/01/06](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Interna/Verbali%20Interni/verbale_interno_2024_01_06.pdf)
     - [Verbale del 2024/01/13](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Interna/Verbali%20Interni/verbale_interno_2024_01_13.pdf)
     - [Verbale del 2024/01/05](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Interna/Verbali%20Interni/verbale_interno_2024_02_05.pdf)
+</details>
+
+</br>
 
 <b>PB</b>
 
