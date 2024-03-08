@@ -5,7 +5,7 @@
 
 ## Documentazione del progetto "ChatSQL"
 
-In questa repository sono contenuti tutti i documenti prodotti dal gruppo torchlight per il progetto ChatSQL, [proposto](https://www.math.unipd.it/~tullio/IS-1/2023/Progetto/C9.pdf) dall'azienda Zucchetti S.p.A. per il corso di Ingegneria del Software dell'Università degli Studi di Padova.
+In questa repository sono contenuti tutti i documenti prodotti dal gruppo torchlight per il progetto ChatSQL, [proposto](https://www.math.unipd.it/~tullio/IS-1/2023/Progetto/C9.pdf) dall'azienda Zucchetti S.p.A. per il corso di _Ingegneria del Software_ dell'Università degli Studi di Padova.
 
 ### Struttura della repository
 
@@ -17,8 +17,7 @@ In questa repository sono contenuti tutti i documenti prodotti dal gruppo torchl
 - [Valutazione dei Capitolati](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/1%20-%20Candidatura/valutazione_capitolati_v1_0.pdf) (V1.0)
   
 - <details>
-
-    <summary>Verbali</summary>
+  <summary>Verbali</summary>
 
   - [Verbale esterno del 2023/10/23](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/1%20-%20Candidatura/Verbali/verbale_esterno_2023_10_23.pdf) (Approvato dal proponente)
 
@@ -36,7 +35,8 @@ In questa repository sono contenuti tutti i documenti prodotti dal gruppo torchl
 
 </br>
 
-<b>RTB</b>
+<details>
+<summary><b>RTB</b></summary>
 
 - [Lettera di Presentazione](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/lettera_presentazione.pdf)
   - Documentazione Esterna
@@ -67,3 +67,22 @@ In questa repository sono contenuti tutti i documenti prodotti dal gruppo torchl
     - [Verbale del 2024/01/13](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Interna/Verbali%20Interni/verbale_interno_2024_01_13.pdf)
     - [Verbale del 2024/01/05](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Interna/Verbali%20Interni/verbale_interno_2024_02_05.pdf)
 
+<b>PB</b>
+
+- Lettera di Presentazione
+- Documentazione Esterna
+  - [Analisi dei Requisiti (Versione 2.0.0)](example.com)
+  - [Glossario (Versione 2.0.0)](example.com)
+  - [Piano di Progetto (Versione 2.0.0)](example.com)
+  - [Piano di Qualifica (Versione 2.0.0)](example.com)
+  - [Manuale Utente (Versione 1.0.0)](example.com)
+  - [Specifica Architetturale (Versione 1.0.0)](example.com)
+  - Verbali Esterni
+    - [Verbale esterno del XX mese 2024 (Approvato dal proponente)](example.com)
+
+<br/>
+
+- Documentazione Interna
+  - [Norme di Progetto (Versione 2.0.0)](example.com)
+  - Verbali Interni
+    - [Verbale del XX mese 2024](example.com)
