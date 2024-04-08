@@ -17,7 +17,7 @@ In questa repository sono contenuti tutti i documenti prodotti dal gruppo torchl
 - [Lettera di Presentazione](docs/PB/dummy.pdf)
 - Documentazione Esterna
   - [Analisi dei Requisiti](docs/PB/Documentazione%20Esterna/dummy.pdf) (Versione 2.0.0)
-  - [Glossario](docs/PB/Documentazione%20Esterna/dummy.pdf) (Versione 2.0.0)
+  - [Glossario](docs/PB/Documentazione%20Esterna/glossario_v2.0.0.pdf) (Versione 2.0.0)
   - [Piano di Progetto](docs/PB/Documentazione%20Esterna/dummy.pdf) (Versione 2.0.0)
   - [Piano di Qualifica](docs/PB/Documentazione%20Esterna/dummy.pdf) (Versione 2.0.0)
   - [Manuale Utente](docs/PB/Documentazione%20Esterna/dummy.pdf) (Versione 1.0.0)
@@ -39,7 +39,6 @@ In questa repository sono contenuti tutti i documenti prodotti dal gruppo torchl
 
 - [Lettera di Presentazione](docs/RTB/lettera_presentazione.pdf)
 - Documentazione Esterna
-  
   - [Analisi dei Requisiti](docs/RTB/Documentazione%20Esterna/analisi_requisiti_v1.1.0.pdf) (Versione 1.1.0)
   - [Glossario](docs/RTB/Documentazione%20Esterna/glossario_v1.0.0.pdf) (Versione 1.0.0)
   - [Piano di Progetto](docs/RTB/Documentazione%20Esterna/piano_progetto_v1.0.0.pdf) (Versione 1.0.0)
@@ -52,9 +51,7 @@ In questa repository sono contenuti tutti i documenti prodotti dal gruppo torchl
   </details>
 
 - Documentazione Interna
-
   - [Norme di Progetto](docs/RTB/Documentazione%20Interna/norme_progetto_v1.0.0.pdf) (Versione 1.0.0)
-
     - Verbali Interni
       - [Verbale del 6 Novembre 2023](docs/RTB/Documentazione%20Interna/Verbali%20Interni/verbale_interno_2023_11_06.pdf)
       - [Verbale dell'11 Novembre 2023](docs/RTB/Documentazione%20Interna/Verbali%20Interni/verbale_interno_2023_11_11.pdf)
@@ -75,9 +72,7 @@ In questa repository sono contenuti tutti i documenti prodotti dal gruppo torchl
 - [Valutazione dei Capitolati](docs/Candidatura/valutazione_capitolati_v1_0.pdf) (V1.0)
   
 - Verbali
-
   - [Verbale esterno del 23 Ottobre 2023](docs/Candidatura/Verbali/verbale_esterno_2023_10_23.pdf) (Approvato dal proponente)
-
   - Interni
     - [Verbale del 16 Ottobre 2023](docs/Candidatura/Verbali/Verbali%20interni/verbale_2023_10_16.pdf)
     - [Verbale del 17 Ottobre 2023](docs/Candidatura/Verbali/Verbali%20interni/verbale_2023_10_17.pdf)
