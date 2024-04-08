@@ -29,7 +29,11 @@ In questa repository sono contenuti tutti i documenti prodotti dal gruppo torchl
 - Documentazione Interna
   - [Norme di Progetto (Versione 2.0.0)](docs/PB/Documentazione%20Interna/dummy.pdf)
   - Verbali Interni
-    - [Verbale del XX mese 2024](docs/PB/Documentazione%20Interna/Verbali%20Interni/dummy.pdf)
+    - [Verbale del 29 Febbraio 2024](docs/PB/Documentazione%20Interna/Verbali%20Interni/2024_02_29_verbale_interno.pdf)
+    - [Verbale dell'11 Marzo 2024](docs/PB/Documentazione%20Interna/Verbali%20Interni/2024_03_11_verbale_interno.pdf)
+    - [Verbale del 22 Marzo 2024](docs/PB/Documentazione%20Interna/Verbali%20Interni/2024_03_22_verbale_interno.pdf)
+    - [Verbale del 25 Marzo 2024](docs/PB/Documentazione%20Interna/Verbali%20Interni/2024_03_25_verbale_interno.pdf)
+    - [Verbale del 28 Marzo 2024](docs/PB/Documentazione%20Interna/Verbali%20Interni/2024_03_28_verbale_interno.pdf)
 
 ### RTB
 
