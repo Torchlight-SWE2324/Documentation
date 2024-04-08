@@ -27,7 +27,7 @@ In questa repository sono contenuti tutti i documenti prodotti dal gruppo torchl
     - [Verbale esterno del 20 Marzo 2024](docs/PB/Documentazione%20Esterna/Verbali%20Esterni/2024_03_20_verbale_esterno.pdf) (Approvato dal proponente)
 
 - Documentazione Interna
-  - [Norme di Progetto (Versione 2.0.0)](docs/PB/Documentazione%20Interna/dummy.pdf)
+  - [Norme di Progetto (Versione 2.0.0)](docs/PB/Documentazione%20Interna/norme_progetto_v2.0.0.pdf)
   - Verbali Interni
     - [Verbale del 29 Febbraio 2024](docs/PB/Documentazione%20Interna/Verbali%20Interni/2024_02_29_verbale_interno.pdf)
     - [Verbale dell'11 Marzo 2024](docs/PB/Documentazione%20Interna/Verbali%20Interni/2024_03_11_verbale_interno.pdf)
