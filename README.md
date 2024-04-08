@@ -83,19 +83,15 @@ In questa repository sono contenuti tutti i documenti prodotti dal gruppo torchl
 
 ## Membri del gruppo
 
-<p align="center">
-
-  | Cognome      | Nome             | Matricola |
-  | :----------- | :--------------  | :-------- |
-  | Agafitei     | Ciprian          | 2034325   |
-  | Cappellari   | Marco            | 2046422   |
-  | De Laurentis | Arianna Pia      | 2008077   |
-  | Filippini    | Giovanni         | 2052784   |
-  | Meneghini    | Fabio            | 2034332   |
-  | Pluzhnikov   | Dmitry           | 1169886   |
-  | Ye           | Tao Ren Federico | 2000549   |
-
-</p>
+| Cognome      | Nome             | Matricola |
+| :----------- | :--------------  | :-------- |
+| Agafitei     | Ciprian          | 2034325   |
+| Cappellari   | Marco            | 2046422   |
+| De Laurentis | Arianna Pia      | 2008077   |
+| Filippini    | Giovanni         | 2052784   |
+| Meneghini    | Fabio            | 2034332   |
+| Pluzhnikov   | Dmitry           | 1169886   |
+| Ye           | Tao Ren Federico | 2000549   |
 
 ## Licenza
 
