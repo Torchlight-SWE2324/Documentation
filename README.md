@@ -21,7 +21,7 @@ In questa repository sono contenuti tutti i documenti prodotti dal gruppo torchl
   - [Piano di Progetto](docs/PB/Documentazione%20Esterna/dummy.pdf) (Versione 2.0.0)
   - [Piano di Qualifica](docs/PB/Documentazione%20Esterna/dummy.pdf) (Versione 2.0.0)
   - [Manuale Utente](docs/PB/Documentazione%20Esterna/dummy.pdf) (Versione 1.0.0)
-  - [Specifica Architetturale](docs/PB/Documentazione%20Esterna/dummy.pdf) (Versione 1.0.0)
+  - [Specifica Tecnica](docs/PB/Documentazione%20Esterna/specifica_tecnica_v1.0.0.pdf) (Versione 1.0.0)
   - Verbali Esterni
     - [Verbale esterno dell'8 Marzo 2024](docs/PB/Documentazione%20Esterna/Verbali%20Esterni/2024_03_08_verbale_esterno.pdf) (Approvato dal proponente)
     - [Verbale esterno del 20 Marzo 2024](docs/PB/Documentazione%20Esterna/Verbali%20Esterni/2024_03_20_verbale_esterno.pdf) (Approvato dal proponente)
