@@ -35,6 +35,7 @@ In questa repository sono contenuti tutti i documenti prodotti dal gruppo torchl
     - [Verbale del 22 Marzo 2024](docs/PB/Documentazione%20Interna/Verbali%20Interni/2024_03_22_verbale_interno.pdf)
     - [Verbale del 25 Marzo 2024](docs/PB/Documentazione%20Interna/Verbali%20Interni/2024_03_25_verbale_interno.pdf)
     - [Verbale del 28 Marzo 2024](docs/PB/Documentazione%20Interna/Verbali%20Interni/2024_03_28_verbale_interno.pdf)
+    - [Verbale intenro del 4 Aprile 2024](docs/PB/Documentazione%20Interna/Verbali%20Interni/2024_04_09_verbale_interno.pdf)
 
 ### RTB
 
