@@ -19,13 +19,13 @@ In questa repository sono contenuti tutti i documenti prodotti dal gruppo torchl
   - [Analisi dei Requisiti](docs/PB/Documentazione%20Esterna/analisi_requisiti_v2.0.0.pdf) (Versione 2.0.0)
   - [Glossario](docs/PB/Documentazione%20Esterna/glossario_v2.0.0.pdf) (Versione 2.0.0)
   - [Piano di Progetto](docs/PB/Documentazione%20Esterna/dummy.pdf) (Versione 2.0.0)
-  - [Piano di Qualifica](docs/PB/Documentazione%20Esterna/dummy.pdf) (Versione 2.0.0)
+  - [Piano di Qualifica](docs/PB/Documentazione%20Esterna/piano_qualifica_v1.3.1.pdf) (Versione 1.3.1)
   - [Manuale Utente](docs/PB/Documentazione%20Esterna/dummy.pdf) (Versione 1.0.0)
   - [Specifica Tecnica](docs/PB/Documentazione%20Esterna/specifica_tecnica_v1.0.0.pdf) (Versione 1.0.0)
   - Verbali Esterni
     - [Verbale esterno dell'8 Marzo 2024](docs/PB/Documentazione%20Esterna/Verbali%20Esterni/2024_03_08_verbale_esterno.pdf) (Approvato dal proponente)
     - [Verbale esterno del 20 Marzo 2024](docs/PB/Documentazione%20Esterna/Verbali%20Esterni/2024_03_20_verbale_esterno.pdf) (Approvato dal proponente)
-    - - [Verbale del 4 Aprile 2024](docs/PB/Documentazione%20Esterna/Verbali%20Interni/2024_04_09_verbale_esterno.pdf) (Approvato dal proponente)
+    - [Verbale del 4 Aprile 2024](docs/PB/Documentazione%20Esterna/Verbali%20Interni/2024_04_09_verbale_esterno.pdf) (Approvato dal proponente)
 
 - Documentazione Interna
   - [Norme di Progetto (Versione 2.0.0)](docs/PB/Documentazione%20Interna/norme_progetto_v2.0.0.pdf)
