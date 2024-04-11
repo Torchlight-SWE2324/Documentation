@@ -18,8 +18,8 @@ In questa repository sono contenuti tutti i documenti prodotti dal gruppo torchl
 - Documentazione Esterna
   - [Analisi dei Requisiti](docs/PB/Documentazione%20Esterna/analisi_requisiti_v2.0.0.pdf) (Versione 2.0.0)
   - [Glossario](docs/PB/Documentazione%20Esterna/glossario_v2.0.0.pdf) (Versione 2.0.0)
-  - [Piano di Progetto](docs/PB/Documentazione%20Esterna/dummy.pdf) (Versione 2.0.0)
-  - [Piano di Qualifica](docs/PB/Documentazione%20Esterna/piano_qualifica_v1.3.1.pdf) (Versione 1.3.1)
+  - [Piano di Progetto](docs/PB/Documentazione%20Esterna/piano_progetto_v1.3.1.pdf) (Versione 1.3.1)
+  - [Piano di Qualifica](docs/PB/Documentazione%20Esterna/dummy.pdf) (Versione 2.0.0)
   - [Manuale Utente](docs/PB/Documentazione%20Esterna/dummy.pdf) (Versione 1.0.0)
   - [Specifica Tecnica](docs/PB/Documentazione%20Esterna/specifica_tecnica_v1.0.0.pdf) (Versione 1.0.0)
   - Verbali Esterni
