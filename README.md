@@ -14,7 +14,7 @@ In questa repository sono contenuti tutti i documenti prodotti dal gruppo torchl
 
 ### PB
 
-- [Lettera di Presentazione](docs/PB/dummy.pdf)
+- [Lettera di Presentazione](docs/PB/lettera_presentazione.pdf)
 - Documentazione Esterna
   - [Analisi dei Requisiti](docs/PB/Documentazione%20Esterna/analisi_requisiti_v2.0.0.pdf) (Versione 2.0.0)
   - [Glossario](docs/PB/Documentazione%20Esterna/glossario_v2.0.0.pdf) (Versione 2.0.0)
