@@ -18,7 +18,7 @@ In questa repository sono contenuti tutti i documenti prodotti dal gruppo torchl
 - Documentazione Esterna
   - [Analisi dei Requisiti](docs/PB/Documentazione%20Esterna/analisi_requisiti_v2.0.0.pdf) (Versione 2.0.0)
   - [Glossario](docs/PB/Documentazione%20Esterna/glossario_v2.0.0.pdf) (Versione 2.0.0)
-  - [Piano di Progetto](docs/PB/Documentazione%20Esterna/piano_progetto_v1.3.1.pdf) (Versione 1.3.1)
+  - [Piano di Progetto](docs/PB/Documentazione%20Esterna/piano_progetto_v2.0.0.pdf) (Versione 2.0.0)
   - [Piano di Qualifica](docs/PB/Documentazione%20Esterna/piano_qualifica_v2.0.0.pdf) (Versione 2.0.0)
   - [Manuale Utente](docs/PB/Documentazione%20Esterna/manuale_utente_v1.0.0.pdf) (Versione 1.0.0)
   - [Specifica Tecnica](docs/PB/Documentazione%20Esterna/specifica_tecnica_v1.0.0.pdf) (Versione 1.0.0)
@@ -28,7 +28,7 @@ In questa repository sono contenuti tutti i documenti prodotti dal gruppo torchl
     - [2024/04/09 - verbale esterno](docs/PB/Documentazione%20Esterna/Verbali%20Interni/2024_04_09_verbale_esterno.pdf) (Approvato dal proponente)
 
 - Documentazione Interna
-  - [Norme di Progetto (Versione 2.0.0)](docs/PB/Documentazione%20Interna/norme_progetto_v2.0.0.pdf)
+  - [Norme di Progetto](docs/PB/Documentazione%20Interna/norme_progetto_v2.0.0.pdf) (Versione 2.0.0)
   - Verbali Interni
     - [2024/02/29 - verbale interno](docs/PB/Documentazione%20Interna/Verbali%20Interni/2024_02_29_verbale_interno.pdf)
     - [2024/03/11 - verbale interno](docs/PB/Documentazione%20Interna/Verbali%20Interni/2024_03_11_verbale_interno.pdf)
