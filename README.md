@@ -23,20 +23,20 @@ In questa repository sono contenuti tutti i documenti prodotti dal gruppo torchl
   - [Manuale Utente](docs/PB/Documentazione%20Esterna/manuale_utente_v1.0.0.pdf) (Versione 1.0.0)
   - [Specifica Tecnica](docs/PB/Documentazione%20Esterna/specifica_tecnica_v1.0.0.pdf) (Versione 1.0.0)
   - Verbali Esterni
-    - [Verbale esterno dell'8 Marzo 2024](docs/PB/Documentazione%20Esterna/Verbali%20Esterni/2024_03_08_verbale_esterno.pdf) (Approvato dal proponente)
-    - [Verbale esterno del 20 Marzo 2024](docs/PB/Documentazione%20Esterna/Verbali%20Esterni/2024_03_20_verbale_esterno.pdf) (Approvato dal proponente)
-    - [Verbale esterno del 4 Aprile 2024](docs/PB/Documentazione%20Esterna/Verbali%20Interni/2024_04_09_verbale_esterno.pdf) (Approvato dal proponente)
+    - [2024/03/08 - verbale esterno](docs/PB/Documentazione%20Esterna/Verbali%20Esterni/2024_03_08_verbale_esterno.pdf) (Approvato dal proponente)
+    - [2024/03/20 - verbale esterno](docs/PB/Documentazione%20Esterna/Verbali%20Esterni/2024_03_20_verbale_esterno.pdf) (Approvato dal proponente)
+    - [2024/04/09 - verbale esterno](docs/PB/Documentazione%20Esterna/Verbali%20Interni/2024_04_09_verbale_esterno.pdf) (Approvato dal proponente)
 
 - Documentazione Interna
   - [Norme di Progetto (Versione 2.0.0)](docs/PB/Documentazione%20Interna/norme_progetto_v2.0.0.pdf)
   - Verbali Interni
-    - [Verbale interno del 29 Febbraio 2024](docs/PB/Documentazione%20Interna/Verbali%20Interni/2024_02_29_verbale_interno.pdf)
-    - [Verbale interno dell'11 Marzo 2024](docs/PB/Documentazione%20Interna/Verbali%20Interni/2024_03_11_verbale_interno.pdf)
-    - [Verbale interno del 22 Marzo 2024](docs/PB/Documentazione%20Interna/Verbali%20Interni/2024_03_22_verbale_interno.pdf)
-    - [Verbale interno del 25 Marzo 2024](docs/PB/Documentazione%20Interna/Verbali%20Interni/2024_03_25_verbale_interno.pdf)
-    - [Verbale interno del 28 Marzo 2024](docs/PB/Documentazione%20Interna/Verbali%20Interni/2024_03_28_verbale_interno.pdf)
-    - [Verbale interno del 4 Aprile 2024](docs/PB/Documentazione%20Interna/Verbali%20Interni/2024_04_09_verbale_interno.pdf)
-    - [Verbale interno del 12 Aprile 2024](docs/PB/Documentazione%20Interna/Verbali%20Interni/2024_04_12_verbale_interno.pdf)
+    - [2024/02/29 - verbale interno](docs/PB/Documentazione%20Interna/Verbali%20Interni/2024_02_29_verbale_interno.pdf)
+    - [2024/03/11 - verbale interno](docs/PB/Documentazione%20Interna/Verbali%20Interni/2024_03_11_verbale_interno.pdf)
+    - [2024/03/22 - verbale interno](docs/PB/Documentazione%20Interna/Verbali%20Interni/2024_03_22_verbale_interno.pdf)
+    - [2024/03/25 - verbale interno](docs/PB/Documentazione%20Interna/Verbali%20Interni/2024_03_25_verbale_interno.pdf)
+    - [2024/03/28 - verbale interno](docs/PB/Documentazione%20Interna/Verbali%20Interni/2024_03_28_verbale_interno.pdf)
+    - [2024/04/04 - verbale interno](docs/PB/Documentazione%20Interna/Verbali%20Interni/2024_04_09_verbale_interno.pdf)
+    - [2024/04/12 - verbale interno](docs/PB/Documentazione%20Interna/Verbali%20Interni/2024_04_12_verbale_interno.pdf)
 
 ### RTB
 
@@ -97,4 +97,4 @@ In questa repository sono contenuti tutti i documenti prodotti dal gruppo torchl
 
 ## Licenza
 
-Tutti i documenti presenti in questa repository sono rilasciati sotto la licenza [MIT](LICENSE).
+Tutti i documenti presenti in questa repository sono rilasciati sotto la licenza [MIT](LICENSE). Se non vuoi leggere la licenza, [ascoltala qui](https://app.suno.ai/song/da6d4a83-1001-4694-8c28-648a6e8bad0a/)
